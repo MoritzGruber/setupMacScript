@@ -12,6 +12,7 @@ npm install -g cordova ionic
 brew cask install atom
 brew cask install google-chrome
 brew cask install iterm2
+brew cask install visual-studio-code
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 git clone https://github.com/lysyi3m/osx-terminal-themes.git
 
