@@ -9,5 +9,5 @@ brew tap sambadevi/powerlevel9k
 brew install powerlevel9k
 brew cask install iterm2
 brew cask install visual-studio-code
-
-
+brew install --cask google-cloud-sdk
+gcloud components install cloud_sql_proxy
